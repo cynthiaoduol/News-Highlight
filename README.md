@@ -2,7 +2,9 @@
 
 ### Author: [cynthiaoduol](https://github.com/cynthiaoduol)
 
-Link to live site : 
+ github repository :https://github.com/cynthiaoduol/Akan-names-website.git
+
+Link to live site : https://news-highlight18.herokuapp.com/
 ## Description
  
 News Highlights is a web appliction that displays a list of news sources from around the world. A user is able to click on a news source and view the particular news article and the time the article was published. Clicking on the news article  will then redirect you to the news article's web page.
